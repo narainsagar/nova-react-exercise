@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nova-react-exercise/static/css/main.073c9b0a.css",
-    "main.js": "/nova-react-exercise/static/js/main.78366a7b.js",
-    "static/js/787.6ed4671e.chunk.js": "/nova-react-exercise/static/js/787.6ed4671e.chunk.js",
+    "main.js": "/nova-react-exercise/static/js/main.a10ae755.js",
+    "static/js/787.601eaea8.chunk.js": "/nova-react-exercise/static/js/787.601eaea8.chunk.js",
     "index.html": "/nova-react-exercise/index.html",
     "main.073c9b0a.css.map": "/nova-react-exercise/static/css/main.073c9b0a.css.map",
-    "main.78366a7b.js.map": "/nova-react-exercise/static/js/main.78366a7b.js.map",
-    "787.6ed4671e.chunk.js.map": "/nova-react-exercise/static/js/787.6ed4671e.chunk.js.map"
+    "main.a10ae755.js.map": "/nova-react-exercise/static/js/main.a10ae755.js.map",
+    "787.601eaea8.chunk.js.map": "/nova-react-exercise/static/js/787.601eaea8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.78366a7b.js"
+    "static/js/main.a10ae755.js"
   ]
 }
